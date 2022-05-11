@@ -14,3 +14,24 @@ docker-compose up
 - mysql_oracle
 - jpa
 - docker-compose
+
+---
+
+
+TODO List:
+
+- Redis
+- ElasticSearch
+- MongoDB
+- Zookeeper
+- Kafka
+- RabbitMQ
+- RocketMQ
+- Dobbo
+- SpringCloud
+- 全链路Trace
+- Netty
+- Oauth2
+- ClickHouse
+- Memcached
+- MySQL多数据源
