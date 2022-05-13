@@ -2,7 +2,7 @@
 
 ## java-mysql
 
-Java操作Mysql[](https://)
+Java操作Mysql
 
 运行项目，请先在`java-mysql`目录下执行：
 
@@ -11,17 +11,17 @@ docker-compose up
 ```
 
 - jdk11
+- springboot
 - mysql_oracle
 - jpa
 - docker-compose
 
 ---
 
-
 TODO List:
 
 - Redis
-- ElasticSearch
+- ElasticSearch†
 - MongoDB
 - Zookeeper
 - Kafka
@@ -34,4 +34,19 @@ TODO List:
 - Oauth2
 - ClickHouse
 - Memcached
-- MySQL多数据源
+- MySQL多数据源 [cobar](https://github.com/alibaba/cobar)
+- [Redis sentinel](http://redis.io/topics/sentinel)
+- [Redis Cluster](https://redis.io/docs/manual/scaling/)
+- Mockito
+- Spring(IOC,AOP)
+- SpringMVC
+- Mybatis
+- Ehcache
+- Elastic-Job
+- xxl-job
+- 分布式ID生成器
+- [canal](https://github.com/alibaba/canal)
+
+* [etcd](https://coreos.com/etcd/)
+* [Prometheus](https://prometheus.io/)
+* CAT
