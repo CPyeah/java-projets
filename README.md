@@ -16,12 +16,22 @@ docker-compose up
 - jpa
 - docker-compose
 
+# java-redis
+
+Java操作redis（单机）
+
+- jdk11
+- springboot
+- redis
+- redission
+- docker compose
+
 ---
 
 TODO List:
 
 - Redis
-- ElasticSearch†
+- ElasticSearch
 - MongoDB
 - Zookeeper
 - Kafka
