@@ -20,7 +20,7 @@ public class LockTests {
 		RLock lock = redisson.getLock("my-lock");
 		try {
 			lock.lock();
-			new Thread(() -> lock.lock()).start();
+			new Thread(lock::lock).start();
 			// do somethings
 		} finally {
 			Thread.sleep(10000);
@@ -46,6 +46,21 @@ public class LockTests {
 			lock.lock(10, TimeUnit.MINUTES);
 			// do somethings
 		} finally {
+			lock.unlock();
+		}
+	}
+
+	@Test
+	public void reentrantLockTest() {
+		RLock lock = redisson.getLock("slock");
+		try {
+			lock.lock();
+			lock.lock();
+			lock.lock();
+			// do somethings
+		} finally {
+			lock.unlock();
+			lock.unlock();
 			lock.unlock();
 		}
 	}
