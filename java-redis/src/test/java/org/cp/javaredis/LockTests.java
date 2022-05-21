@@ -57,6 +57,7 @@ public class LockTests {
 			lock.lock();
 			lock.lock();
 			lock.lock();
+			System.out.println(lock.getHoldCount());
 			// do somethings
 		} finally {
 			lock.unlock();
