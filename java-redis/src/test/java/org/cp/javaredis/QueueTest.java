@@ -15,6 +15,7 @@ public class QueueTest {
 	@Autowired
 	RedissonClient redissonClient;
 
+	// 简单队列
 	@Test
 	public void simple() {
 		RQueue<Object> queue = redissonClient.getQueue("simple");
@@ -34,6 +35,7 @@ public class QueueTest {
 		}
 	}
 
+	// 阻塞队列
 	@Test
 	public void blockQueue() throws InterruptedException {
 		RBlockingQueue<Object> queue = redissonClient.getBlockingQueue("block");
@@ -55,6 +57,7 @@ public class QueueTest {
 		}
 	}
 
+	// 延迟队列
 	@Test
 	public void delayQueue() throws InterruptedException {
 		RBlockingQueue<Object> blockingQueue = redissonClient.getBlockingQueue("delayQueue1");

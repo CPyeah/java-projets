@@ -20,10 +20,8 @@ public class LockTests {
 		RLock lock = redisson.getLock("my-lock");
 		try {
 			lock.lock();
-			new Thread(lock::lock).start();
 			// do somethings
 		} finally {
-			Thread.sleep(10000);
 			lock.unlock();
 		}
 	}
