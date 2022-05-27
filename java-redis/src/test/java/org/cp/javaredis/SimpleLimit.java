@@ -26,22 +26,18 @@ public class SimpleLimit {
 
 		for (int i = 0; i < 10; i++) {
 			new Thread(() -> {
-
 				// 阻塞
 //				limiter.acquire(1);
-
 				boolean result = limiter.tryAcquire(1, 100, TimeUnit.MILLISECONDS);
 				if (!result) {
 					// 快速失败
 					System.out.println(Thread.currentThread().getName() + " failed !");
 					return;
 				}
-
 				System.out.println(Thread.currentThread().getName() + " -> " + LocalDateTime.now());
 				// do something
 			}).start();
 		}
-
 		Thread.sleep(12000);
 	}
 
