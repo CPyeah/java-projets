@@ -46,7 +46,6 @@ public class HyperLogLogTests {
 	public void mergeTest() {
 		RHyperLogLog<String> today = redisson.getHyperLogLog("UV_" + LocalDate.now());
 		RHyperLogLog<String> nextDay = redisson.getHyperLogLog("UV_" + LocalDate.now().plusDays(1));
-		today.delete();
 		HashSet<String> set = new HashSet<>();
 		Random random = new Random();
 		for (int i = 0; i < 1000; i++) {
