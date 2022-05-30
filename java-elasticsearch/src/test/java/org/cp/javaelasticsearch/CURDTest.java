@@ -62,7 +62,7 @@ public class CURDTest {
 		newProduct.setId(product.getId());
 		Product save = repository.save(newProduct);
 		Assertions.assertEquals(product.getId(), save.getId());
-		Assertions.assertNotEquals(product.getSpuName(), save.getSpuName());
+		Assertions.assertNotEquals(product.getName(), save.getName());
 		System.out.println(product);
 		System.out.println(save);
 	}
