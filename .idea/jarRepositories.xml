@@ -2,6 +2,41 @@
 <project version="4">
   <component name="RemoteRepositoriesConfiguration">
     <remote-repository>
+      <option name="id" value="nexus-snapshots" />
+      <option name="name" value="nexus-snapshots" />
+      <option name="url" value="http://maven.ningpai.com/nexus/content/repositories/snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven" />
+      <option name="name" value="maven" />
+      <option name="url" value="https://repo.spring.io/release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus" />
+      <option name="name" value="local private nexus" />
+      <option name="url" value="http://maven.ningpai.com/nexus/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="MavenRepo" />
+      <option name="name" value="MavenRepo" />
+      <option name="url" value="https://repo.maven.apache.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus repository" />
+      <option name="name" value="intranet public groups" />
+      <option name="url" value="http://nexus.dev.qianmi.com/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="releases" />
+      <option name="name" value="releases" />
+      <option name="url" value="http://maven.ningpai.com/nexus/content/repositories/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central" />
+      <option name="url" value="http://nexus.dev.qianmi.com/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="central" />
       <option name="name" value="Maven Central repository" />
       <option name="url" value="https://repo1.maven.org/maven2" />
@@ -12,14 +47,14 @@
       <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
     </remote-repository>
     <remote-repository>
-      <option name="id" value="MavenRepo" />
-      <option name="name" value="MavenRepo" />
-      <option name="url" value="https://repo.maven.apache.org/maven2/" />
+      <option name="id" value="qianmi-snapshots" />
+      <option name="name" value="intranet public snapshots" />
+      <option name="url" value="http://nexus.dev.qianmi.com/nexus/content/repositories/snapshots" />
     </remote-repository>
     <remote-repository>
-      <option name="id" value="maven" />
-      <option name="name" value="maven" />
-      <option name="url" value="https://repo.spring.io/release" />
+      <option name="id" value="snapshots" />
+      <option name="name" value="snapshots" />
+      <option name="url" value="http://maven.ningpai.com/nexus/content/repositories/snapshots/" />
     </remote-repository>
   </component>
 </project>
