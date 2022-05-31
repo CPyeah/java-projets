@@ -18,13 +18,13 @@ import org.springframework.data.elasticsearch.annotations.Setting;
 public class Product {
 
 	@Id
-	@Field(enabled = false)
+	@Field(type = FieldType.Text, index = false)
 	private String id;
 
-	@Field(type = FieldType.Keyword, ignoreAbove = 256)
+	@Field(type = FieldType.Keyword, ignoreAbove = 128)
 	private String name;
 
-	@Field(type = FieldType.Text)
+	@Field(type = FieldType.Text, analyzer = "ik_smart", searchAnalyzer = "ik_smart")
 	private String description;
 
 	@Field(type = FieldType.Keyword)
@@ -36,8 +36,7 @@ public class Product {
 	@Field(type = FieldType.Double)
 	private BigDecimal price;
 
-	@Field(type = FieldType.Date, format = {}, pattern = {"yyyy-MM-dd HH:mm:ss", "yyyy-MM-dd",
-			"epoch_millis"})
+	@Field(type = FieldType.Date, format = {}, pattern = {"yyyy-MM-dd HH:mm:ss", "yyyy-MM-dd", "epoch_millis"})
 	private LocalDateTime updateTime;
 
 	@Field(type = FieldType.Nested)
