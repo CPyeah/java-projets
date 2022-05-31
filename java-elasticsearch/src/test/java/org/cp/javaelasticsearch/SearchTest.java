@@ -15,7 +15,7 @@ public class SearchTest {
 
 	@Test
 	public void search() {
-		List<Product> productList = repository.findAllByNameContaining("19");
+		List<Product> productList = repository.findAllBySpuNameContaining("19");
 		System.out.println(productList.size());
 	}
 

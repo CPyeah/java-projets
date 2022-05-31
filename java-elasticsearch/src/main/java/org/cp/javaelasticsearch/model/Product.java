@@ -55,4 +55,8 @@ public class Product {
 		product.setSkuList(Collections.singletonList(Sku.get()));
 		return product;
 	}
+
+	public org.springframework.data.elasticsearch.core.document.Document toDocument() {
+		return null;
+	}
 }

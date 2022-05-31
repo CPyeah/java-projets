@@ -38,19 +38,23 @@ public class IndexTest {
 	}
 
 	@Test
-	public void delete() {
+	public void index() {
+		// 拿到对应索引的操作引用
 		IndexOperations indexOperations = elasticsearchRestTemplate.indexOps(Product.class);
-		Settings settings = indexOperations.getSettings();
-		if (indexOperations.exists()) {
+		// 查看索引是否存在
+		boolean exists = indexOperations.exists();
+		if (exists) {
+			// 删除索引（删除操作要慎重）
 			indexOperations.delete();
 		}
-		// http://localhost:9200/product/_mapping
+		// 创建索引
+//		indexOperations.create(); //这个没有配置mapping
 		indexOperations.createWithMapping();
-		settings = indexOperations.getSettings();
-		indexOperations.refresh();
-		settings = indexOperations.getSettings();
+
+		// 查看索引的Setting
+		Settings settings = indexOperations.getSettings();
+		// 查看索引的Mapping
 		Map<String, Object> mapping = indexOperations.getMapping();
-		System.out.println(mapping);
 	}
 
 	@Test

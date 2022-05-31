@@ -17,6 +17,7 @@ public class CURDTest {
 	@Autowired
 	private ProductRepository repository;
 
+
 	@Test
 	public void create() {
 		Product product = repository.save(Product.get());
