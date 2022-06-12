@@ -18,20 +18,20 @@ docker-compose up
 
 # java-redis
 
-Java操作redis（单机）
+[Java操作Redis](https://cpyeah.github.io/2021/03/25/Java操作Redis/)
 
-- jdk11
-- springboot
-- redis
-- redission
-- docker compose
+[Redis高级数据结构](https://cpyeah.github.io/2021/04/26/Redis高级数据结构/)
+
+# java-elasticsearch
+
+[ElasticSearch学习及原理浅析](https://cpyeah.github.io/2021/05/27/ElasticSearch学习及原理浅析/)
+
+[Java操作ElasticSearch](https://cpyeah.github.io/2021/06/11/Java操作ElasticSearch/)
 
 ---
 
 TODO List:
 
-- Redis
-- ElasticSearch
 - MongoDB
 - Zookeeper
 - Kafka
@@ -56,7 +56,6 @@ TODO List:
 - xxl-job
 - 分布式ID生成器
 - [canal](https://github.com/alibaba/canal)
-
 * [etcd](https://coreos.com/etcd/)
 * [Prometheus](https://prometheus.io/)
 * CAT
