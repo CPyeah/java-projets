@@ -14,11 +14,11 @@ class TransactionControllerTest {
 	@Test
 	public void test1() {
 
-		// 开启事物A
-		Transaction transaction_A = TransactionController.start(Customer.tableData);
+		// 开启事务A
+		Transaction transaction_A = TransactionController.start();
 
-		// 开启事物B
-		Transaction transaction_B = TransactionController.start(Customer.tableData);
+		// 开启事务B
+		Transaction transaction_B = TransactionController.start();
 
 		// 更新数据，同时会加上行锁
 		Row<Customer> 关羽 = getCustomerRow(1, "关羽");
@@ -28,7 +28,7 @@ class TransactionControllerTest {
 		Row<Customer> 张飞 = getCustomerRow(1, "张飞");
 		TransactionController.update(张飞, transaction_A, Customer.tableData);
 
-		// 事物A提交，并释放锁
+		// 事务A提交，并释放锁
 		TransactionController.commit(transaction_A);
 
 		// 更新数据，同时会加上行锁
@@ -44,6 +44,7 @@ class TransactionControllerTest {
 
 		// 打印undo日志链表
 		printData(Customer.tableData.get(1));
+		// 1-诸葛亮(200) -> 1-赵云(200) -> 1-张飞(100) -> 1-关羽(100) -> 1-刘备(null)
 
 	}
 
