@@ -54,7 +54,7 @@ public class TransactionController {
 	}
 
 	// 获取到ReadView
-	public <T> Row<T> readView(Row<T> chain, Integer currentTrxId) {
+	public <T> Row<T> readView(Row<T> chain) {
 		if (chain == null) {
 			return null;
 		}
@@ -71,7 +71,7 @@ public class TransactionController {
 		Row<T> pointer = chain;
 
 		while (true) {
-			if (isThisReadView(pointer, currentTrxId, min, max)) {
+			if (isThisReadView(pointer, min, max)) {
 				return pointer;
 			}
 			if (pointer.getRoll_pointer() != null) {
@@ -83,9 +83,8 @@ public class TransactionController {
 
 	}
 
-	// 判断释放是当前ReadView
+	// 判断是否此版本为ReadView
 	private <T> boolean isThisReadView(Row<T> pointer,
-			Integer currentTrxId,
 			Integer min,
 			Integer max) {
 		// 如果被访问版本的trx_id属性值小于m_ids列表中最小的事务id，
