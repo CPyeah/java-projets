@@ -7,6 +7,7 @@ class TransactionControllerTest {
 	static void setup() {
 
 		Row<Customer> row = getCustomerRow(1, "刘备");
+		row.setTrx_id(0);
 
 		Customer.tableData.put(row.getPrimaryId(), row);
 	}
@@ -24,6 +25,10 @@ class TransactionControllerTest {
 		Row<Customer> 关羽 = getCustomerRow(1, "关羽");
 		TransactionController.update(关羽, transaction_A, Customer.tableData);
 
+		// 查看readView
+		Row<Customer> readView = TransactionController.readView(Customer.tableData.get(1));
+		System.out.println(toString(readView));// 1-刘备(0)
+
 		// 更新数据，同时会加上行锁
 		Row<Customer> 张飞 = getCustomerRow(1, "张飞");
 		TransactionController.update(张飞, transaction_A, Customer.tableData);
@@ -31,9 +36,17 @@ class TransactionControllerTest {
 		// 事务A提交，并释放锁
 		TransactionController.commit(transaction_A);
 
+		// 查看readView
+		readView = TransactionController.readView(Customer.tableData.get(1));
+		System.out.println(toString(readView));// 1-张飞(100)
+
 		// 更新数据，同时会加上行锁
 		Row<Customer> 赵云 = getCustomerRow(1, "赵云");
 		TransactionController.update(赵云, transaction_B, Customer.tableData);
+
+		// 查看readView
+		readView = TransactionController.readView(Customer.tableData.get(1));
+		System.out.println(toString(readView)); //1-张飞(100)
 
 		// 更新数据，同时会加上行锁
 		Row<Customer> 诸葛亮 = getCustomerRow(1, "诸葛亮");
@@ -41,6 +54,10 @@ class TransactionControllerTest {
 
 		//commit
 		TransactionController.commit(transaction_B);
+
+		// 查看readView
+		readView = TransactionController.readView(Customer.tableData.get(1));
+		System.out.println(toString(readView)); // 1-诸葛亮(200)
 
 		// 打印undo日志链表
 		printData(Customer.tableData.get(1));
@@ -63,6 +80,9 @@ class TransactionControllerTest {
 	}
 
 	private String toString(Row<Customer> customerRow) {
+		if (customerRow == null) {
+			return null;
+		}
 		return customerRow.getPrimaryId() + "-" + customerRow.getOtherData().getName()
 				+ "("
 				+ customerRow.getTrx_id()
