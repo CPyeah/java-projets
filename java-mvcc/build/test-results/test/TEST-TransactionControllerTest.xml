@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TransactionControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-25T09:12:02" hostname="chengpeng" time="0.021">
+  <properties/>
+  <testcase name="test1()" classname="TransactionControllerTest" time="0.021"/>
+  <system-out><![CDATA[1-刘备(0)
+1-张飞(100)
+1-张飞(100)
+1-诸葛亮(200)
+1-诸葛亮(200) -> 1-赵云(200) -> 1-张飞(100) -> 1-关羽(100) -> 1-刘备(0)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
