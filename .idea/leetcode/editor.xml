@@ -14,6 +14,94 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/BestTimeToBuyAndSellStock.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/BestTimeToBuyAndSellStock.md" />
+              <option name="frontendQuestionId" value="leetcode.cn121" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/BestTimeToBuyAndSellStock.go" />
+              <option name="titleSlug" value="best-time-to-buy-and-sell-stock" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/BinaryTreeInorderTraversal.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/BinaryTreeInorderTraversal.md" />
+              <option name="frontendQuestionId" value="leetcode.cn94" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/BinaryTreeInorderTraversal.go" />
+              <option name="titleSlug" value="binary-tree-inorder-traversal" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/BinaryTreeLevelOrderTraversal.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/BinaryTreeLevelOrderTraversal.md" />
+              <option name="frontendQuestionId" value="leetcode.cn102" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/BinaryTreeLevelOrderTraversal.go" />
+              <option name="titleSlug" value="binary-tree-level-order-traversal" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/BinaryTreeMaximumPathSum.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/BinaryTreeMaximumPathSum.md" />
+              <option name="frontendQuestionId" value="leetcode.cn124" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/BinaryTreeMaximumPathSum.go" />
+              <option name="titleSlug" value="binary-tree-maximum-path-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/ClimbingStairs.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/ClimbingStairs.md" />
+              <option name="frontendQuestionId" value="leetcode.cn70" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/ClimbingStairs.go" />
+              <option name="titleSlug" value="climbing-stairs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/CombinationSum.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/CombinationSum.md" />
+              <option name="frontendQuestionId" value="leetcode.cn39" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/CombinationSum.go" />
+              <option name="titleSlug" value="combination-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/ConstructBinaryTreeFromPreorderAndInorderTraversal.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/ConstructBinaryTreeFromPreorderAndInorderTraversal.md" />
+              <option name="frontendQuestionId" value="leetcode.cn105" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/ConstructBinaryTreeFromPreorderAndInorderTraversal.go" />
+              <option name="titleSlug" value="construct-binary-tree-from-preorder-and-inorder-traversal" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/ContainerWithMostWater.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/ContainerWithMostWater.md" />
+              <option name="frontendQuestionId" value="leetcode.cn11" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/ContainerWithMostWater.go" />
+              <option name="titleSlug" value="container-with-most-water" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/DailyTemperatures.go">
           <value>
             <LeetcodeEditor>
@@ -22,6 +110,248 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/DailyTemperatures.go" />
               <option name="titleSlug" value="daily-temperatures" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/EditDistance.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/EditDistance.md" />
+              <option name="frontendQuestionId" value="leetcode.cn72" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/EditDistance.go" />
+              <option name="titleSlug" value="edit-distance" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/FindFirstAndLastPositionOfElementInSortedArray.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/FindFirstAndLastPositionOfElementInSortedArray.md" />
+              <option name="frontendQuestionId" value="leetcode.cn34" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/FindFirstAndLastPositionOfElementInSortedArray.go" />
+              <option name="titleSlug" value="find-first-and-last-position-of-element-in-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/FlattenBinaryTreeToLinkedList.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/FlattenBinaryTreeToLinkedList.md" />
+              <option name="frontendQuestionId" value="leetcode.cn114" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/FlattenBinaryTreeToLinkedList.go" />
+              <option name="titleSlug" value="flatten-binary-tree-to-linked-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/GenerateParentheses.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/GenerateParentheses.md" />
+              <option name="frontendQuestionId" value="leetcode.cn22" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/GenerateParentheses.go" />
+              <option name="titleSlug" value="generate-parentheses" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/GroupAnagrams.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/GroupAnagrams.md" />
+              <option name="frontendQuestionId" value="leetcode.cn49" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/GroupAnagrams.go" />
+              <option name="titleSlug" value="group-anagrams" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/JumpGame.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/JumpGame.md" />
+              <option name="frontendQuestionId" value="leetcode.cn55" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/JumpGame.go" />
+              <option name="titleSlug" value="jump-game" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/LargestRectangleInHistogram.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/LargestRectangleInHistogram.md" />
+              <option name="frontendQuestionId" value="leetcode.cn84" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/LargestRectangleInHistogram.go" />
+              <option name="titleSlug" value="largest-rectangle-in-histogram" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/LetterCombinationsOfAPhoneNumber.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/LetterCombinationsOfAPhoneNumber.md" />
+              <option name="frontendQuestionId" value="leetcode.cn17" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/LetterCombinationsOfAPhoneNumber.go" />
+              <option name="titleSlug" value="letter-combinations-of-a-phone-number" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/LongestConsecutiveSequence.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/LongestConsecutiveSequence.md" />
+              <option name="frontendQuestionId" value="leetcode.cn128" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/LongestConsecutiveSequence.go" />
+              <option name="titleSlug" value="longest-consecutive-sequence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/LongestPalindromicSubstring.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/LongestPalindromicSubstring.md" />
+              <option name="frontendQuestionId" value="leetcode.cn5" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/LongestPalindromicSubstring.go" />
+              <option name="titleSlug" value="longest-palindromic-substring" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/LongestSubstringWithoutRepeatingCharacters.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/LongestSubstringWithoutRepeatingCharacters.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/LongestSubstringWithoutRepeatingCharacters.go" />
+              <option name="titleSlug" value="longest-substring-without-repeating-characters" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/LongestValidParentheses.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/LongestValidParentheses.md" />
+              <option name="frontendQuestionId" value="leetcode.cn32" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/LongestValidParentheses.go" />
+              <option name="titleSlug" value="longest-valid-parentheses" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/MaximalRectangle.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/MaximalRectangle.md" />
+              <option name="frontendQuestionId" value="leetcode.cn85" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/MaximalRectangle.go" />
+              <option name="titleSlug" value="maximal-rectangle" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/MaximumDepthOfBinaryTree.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/MaximumDepthOfBinaryTree.md" />
+              <option name="frontendQuestionId" value="leetcode.cn104" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/MaximumDepthOfBinaryTree.go" />
+              <option name="titleSlug" value="maximum-depth-of-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/MaximumSubarray.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/MaximumSubarray.md" />
+              <option name="frontendQuestionId" value="leetcode.cn53" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/MaximumSubarray.go" />
+              <option name="titleSlug" value="maximum-subarray" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/MedianOfTwoSortedArrays.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/MedianOfTwoSortedArrays.md" />
+              <option name="frontendQuestionId" value="leetcode.cn4" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/MedianOfTwoSortedArrays.go" />
+              <option name="titleSlug" value="median-of-two-sorted-arrays" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/MergeIntervals.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/MergeIntervals.md" />
+              <option name="frontendQuestionId" value="leetcode.cn56" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/MergeIntervals.go" />
+              <option name="titleSlug" value="merge-intervals" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/MergeKSortedLists.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/MergeKSortedLists.md" />
+              <option name="frontendQuestionId" value="leetcode.cn23" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/MergeKSortedLists.go" />
+              <option name="titleSlug" value="merge-k-sorted-lists" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/MergeTwoSortedLists.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/MergeTwoSortedLists.md" />
+              <option name="frontendQuestionId" value="leetcode.cn21" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/MergeTwoSortedLists.go" />
+              <option name="titleSlug" value="merge-two-sorted-lists" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/MinimumPathSum.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/MinimumPathSum.md" />
+              <option name="frontendQuestionId" value="leetcode.cn64" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/MinimumPathSum.go" />
+              <option name="titleSlug" value="minimum-path-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/MinimumWindowSubstring.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/MinimumWindowSubstring.md" />
+              <option name="frontendQuestionId" value="leetcode.cn76" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/MinimumWindowSubstring.go" />
+              <option name="titleSlug" value="minimum-window-substring" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/NextPermutation.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/NextPermutation.md" />
+              <option name="frontendQuestionId" value="leetcode.cn31" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/NextPermutation.go" />
+              <option name="titleSlug" value="next-permutation" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -36,6 +366,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/Permutations.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/Permutations.md" />
+              <option name="frontendQuestionId" value="leetcode.cn46" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/Permutations.go" />
+              <option name="titleSlug" value="permutations" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/RegularExpressionMatching.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/RegularExpressionMatching.md" />
+              <option name="frontendQuestionId" value="leetcode.cn10" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/RegularExpressionMatching.go" />
+              <option name="titleSlug" value="regular-expression-matching" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/RemoveInvalidParentheses.go">
           <value>
             <LeetcodeEditor>
@@ -47,6 +399,94 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/RemoveNthNodeFromEndOfList.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/RemoveNthNodeFromEndOfList.md" />
+              <option name="frontendQuestionId" value="leetcode.cn19" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/RemoveNthNodeFromEndOfList.go" />
+              <option name="titleSlug" value="remove-nth-node-from-end-of-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/ReverseInteger.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/ReverseInteger.md" />
+              <option name="frontendQuestionId" value="leetcode.cn7" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/ReverseInteger.go" />
+              <option name="titleSlug" value="reverse-integer" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/RotateImage.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/RotateImage.md" />
+              <option name="frontendQuestionId" value="leetcode.cn48" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/RotateImage.go" />
+              <option name="titleSlug" value="rotate-image" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/SearchInRotatedSortedArray.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/SearchInRotatedSortedArray.md" />
+              <option name="frontendQuestionId" value="leetcode.cn33" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/SearchInRotatedSortedArray.go" />
+              <option name="titleSlug" value="search-in-rotated-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/SortColors.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/SortColors.md" />
+              <option name="frontendQuestionId" value="leetcode.cn75" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/SortColors.go" />
+              <option name="titleSlug" value="sort-colors" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/Subsets.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/Subsets.md" />
+              <option name="frontendQuestionId" value="leetcode.cn78" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/Subsets.go" />
+              <option name="titleSlug" value="subsets" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/SwapNodesInPairs.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/SwapNodesInPairs.md" />
+              <option name="frontendQuestionId" value="leetcode.cn24" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/SwapNodesInPairs.go" />
+              <option name="titleSlug" value="swap-nodes-in-pairs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/SymmetricTree.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/SymmetricTree.md" />
+              <option name="frontendQuestionId" value="leetcode.cn101" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/SymmetricTree.go" />
+              <option name="titleSlug" value="symmetric-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/TaskScheduler.go">
           <value>
             <LeetcodeEditor>
@@ -55,6 +495,83 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/TaskScheduler.go" />
               <option name="titleSlug" value="task-scheduler" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/ThreeSum.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/ThreeSum.md" />
+              <option name="frontendQuestionId" value="leetcode.cn15" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/ThreeSum.go" />
+              <option name="titleSlug" value="3sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/TrappingRainWater.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/TrappingRainWater.md" />
+              <option name="frontendQuestionId" value="leetcode.cn42" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/TrappingRainWater.go" />
+              <option name="titleSlug" value="trapping-rain-water" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/UniqueBinarySearchTrees.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/UniqueBinarySearchTrees.md" />
+              <option name="frontendQuestionId" value="leetcode.cn96" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/UniqueBinarySearchTrees.go" />
+              <option name="titleSlug" value="unique-binary-search-trees" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/UniquePaths.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/UniquePaths.md" />
+              <option name="frontendQuestionId" value="leetcode.cn62" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/UniquePaths.go" />
+              <option name="titleSlug" value="unique-paths" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/ValidParentheses.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/ValidParentheses.md" />
+              <option name="frontendQuestionId" value="leetcode.cn20" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/ValidParentheses.go" />
+              <option name="titleSlug" value="valid-parentheses" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/ValidateBinarySearchTree.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/ValidateBinarySearchTree.md" />
+              <option name="frontendQuestionId" value="leetcode.cn98" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/ValidateBinarySearchTree.go" />
+              <option name="titleSlug" value="validate-binary-search-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/WordSearch.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/WordSearch.md" />
+              <option name="frontendQuestionId" value="leetcode.cn79" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/WordSearch.go" />
+              <option name="titleSlug" value="word-search" />
             </LeetcodeEditor>
           </value>
         </entry>
