@@ -1,2 +1,3 @@
 include 'java-mvcc'
+include 'java-weeklyReport'
 

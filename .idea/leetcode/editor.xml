@@ -80,6 +80,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/CheckPermutationLcci.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/CheckPermutationLcci.md" />
+              <option name="frontendQuestionId" value="leetcode.cn面试题 01.02" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/CheckPermutationLcci.go" />
+              <option name="titleSlug" value="check-permutation-lcci" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/ClimbingStairs.go">
           <value>
             <LeetcodeEditor>
@@ -198,6 +209,28 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/EvaluateDivision.go" />
               <option name="titleSlug" value="evaluate-division" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/FindAllAnagramsInAString.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/FindAllAnagramsInAString.md" />
+              <option name="frontendQuestionId" value="leetcode.cn438" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/FindAllAnagramsInAString.go" />
+              <option name="titleSlug" value="find-all-anagrams-in-a-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/FindAllNumbersDisappearedInAnArray.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/FindAllNumbersDisappearedInAnArray.md" />
+              <option name="frontendQuestionId" value="leetcode.cn448" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/FindAllNumbersDisappearedInAnArray.go" />
+              <option name="titleSlug" value="find-all-numbers-disappeared-in-an-array" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -682,6 +715,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/ProductOfArrayExceptSelf.go" />
               <option name="titleSlug" value="product-of-array-except-self" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/QueueReconstructionByHeight.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/QueueReconstructionByHeight.md" />
+              <option name="frontendQuestionId" value="leetcode.cn406" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/QueueReconstructionByHeight.go" />
+              <option name="titleSlug" value="queue-reconstruction-by-height" />
             </LeetcodeEditor>
           </value>
         </entry>
