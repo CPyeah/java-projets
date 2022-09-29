@@ -10,7 +10,7 @@ import java.util.Map;
 public class CreateWeeklyReportTemplate {
 
 	public static void main(String[] args) {
-		new CreateWeeklyReportTemplate().create(LocalDate.of(2022,9,1));
+		new CreateWeeklyReportTemplate().create(LocalDate.of(2022,10,8));
 	}
 
 	public void create(LocalDate start) {
@@ -49,7 +49,7 @@ public class CreateWeeklyReportTemplate {
 			System.out.println("### 总结");
 			System.out.println("1. ");
 			System.out.println("---");
-			System.out.println("");
+			System.out.println();
 		}
 
 		System.out.println("-------------------------------------------");
