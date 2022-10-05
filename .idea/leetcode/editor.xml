@@ -1037,6 +1037,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/ValidSudoku.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/doc/content/ValidSudoku.md" />
+              <option name="frontendQuestionId" value="leetcode.cn36" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/ValidSudoku.go" />
+              <option name="titleSlug" value="valid-sudoku" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../algorithm-and-data-structure/src/main/java/leetcode/editor/cn/ValidateBinarySearchTree.go">
           <value>
             <LeetcodeEditor>
