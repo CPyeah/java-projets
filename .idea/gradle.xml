@@ -19,6 +19,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/java-mvcc" />
+            <option value="$PROJECT_DIR$/java-netty" />
             <option value="$PROJECT_DIR$/java-weeklyReport" />
           </set>
         </option>

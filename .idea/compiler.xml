@@ -10,8 +10,16 @@
         </processorPath>
         <module name="java-projets.java-mvcc.main" />
       </profile>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="java-elasticsearch" />
+        <module name="algorithm-and-data-structure" />
+      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="java-netty" target="11" />
       <module name="java-projets.main" target="11" />
       <module name="java-projets.test" target="11" />
       <module name="java-redis.aotMain" target="11" />

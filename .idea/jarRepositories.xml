@@ -7,11 +7,6 @@
       <option name="url" value="http://maven.ningpai.com/nexus/content/repositories/snapshots/" />
     </remote-repository>
     <remote-repository>
-      <option name="id" value="snapshots" />
-      <option name="name" value="snapshots" />
-      <option name="url" value="http://maven.ningpai.com/nexus/content/repositories/snapshots/" />
-    </remote-repository>
-    <remote-repository>
       <option name="id" value="maven" />
       <option name="name" value="maven" />
       <option name="url" value="https://repo.spring.io/release" />
@@ -32,14 +27,14 @@
       <option name="url" value="http://nexus.dev.qianmi.com/nexus/content/groups/public" />
     </remote-repository>
     <remote-repository>
-      <option name="id" value="central" />
-      <option name="name" value="central" />
-      <option name="url" value="http://nexus.dev.qianmi.com/nexus/content/groups/public" />
-    </remote-repository>
-    <remote-repository>
       <option name="id" value="releases" />
       <option name="name" value="releases" />
       <option name="url" value="http://maven.ningpai.com/nexus/content/repositories/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central" />
+      <option name="url" value="http://nexus.dev.qianmi.com/nexus/content/groups/public" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="central" />
@@ -55,6 +50,11 @@
       <option name="id" value="qianmi-snapshots" />
       <option name="name" value="intranet public snapshots" />
       <option name="url" value="http://nexus.dev.qianmi.com/nexus/content/repositories/snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots" />
+      <option name="name" value="snapshots" />
+      <option name="url" value="http://maven.ningpai.com/nexus/content/repositories/snapshots/" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="alimaven" />
