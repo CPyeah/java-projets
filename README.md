@@ -28,6 +28,12 @@ docker-compose up
 
 [Java操作ElasticSearch](https://cpyeah.github.io/2021/06/11/Java操作ElasticSearch/)
 
+# java-netty
+
+[Java之Netty/](https://cpyeah.github.io/2021/12/25/java/Java%E4%B9%8BNetty/)
+
+# 全链路Trace
+
 ---
 
 TODO List:
@@ -40,7 +46,6 @@ TODO List:
 - Dobbo
 - SpringCloud
 - 全链路Trace
-- Netty
 - Oauth2
 - ClickHouse
 - Memcached
